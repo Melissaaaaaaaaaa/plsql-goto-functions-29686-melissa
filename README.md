@@ -1,6 +1,9 @@
 # PL/SQL GOTO Statements and Stored Functions Assignment
 
 ## Student Information
+- **Names:** NAHIMANA Melissa
+- **Student id:** 29686
+- **Group:** I
 - **Course:** Database Development with PL/SQL (INSY 8311)
 - **Institution:** Adventist University of Central Africa (AUCA)
 
